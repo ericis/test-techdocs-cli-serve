@@ -1,0 +1,12 @@
+{
+  "name": "backstage-techdocs",
+  "version": "1.0.0",
+  "author": "Anybody",
+  "license": "MIT",
+  "scripts": {
+    "start": "techdocs-cli serve"
+  },
+  "dependencies": {
+    "@techdocs/cli": "0.0.0-nightly-20220429024638"
+  }
+}
