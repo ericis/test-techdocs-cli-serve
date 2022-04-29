@@ -1,4 +1,4 @@
-site_name: 'backstage-techdocs'
+site_name: 'test-techdocs-cli-serve'
 
 nav:
   - Home: index.md

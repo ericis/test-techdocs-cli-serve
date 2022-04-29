@@ -1,11 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: 'Component'
 metadata:
-  name: backstage-techdocs
+  name: local
   description: "Welcome"
   annotations:
     backstage.io/techdocs-ref: dir:.
-spec:
-  type: 'Documentation'
-  lifecycle: production
-  owner: 'capabilities_enablement'
