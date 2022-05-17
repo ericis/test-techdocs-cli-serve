@@ -7,6 +7,6 @@
     "start": "techdocs-cli serve"
   },
   "dependencies": {
-    "@techdocs/cli": "0.0.0-nightly-20220429024638"
+    "@techdocs/cli": "0.0.0-nightly-20220517024505"
   }
 }
