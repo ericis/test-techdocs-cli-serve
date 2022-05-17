@@ -1,5 +1,8 @@
 site_name: 'test-techdocs-cli-serve'
 
+# Attempt to reproduce a TechDocs 404 bug
+site_url: https://www.example.com/test-techdocs-cli-serve/
+
 nav:
   - Home: index.md
 
